@@ -1,6 +1,6 @@
 # Facial-Recognition
 Steps to run the software correctly
-1. Download the Final folder
+1. Download all the files
 2. Run the webcam.py file using an IDE
 3. The home screen will appear
 4. Press camera icon to launch webcam and detect
